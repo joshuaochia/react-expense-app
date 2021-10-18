@@ -1,6 +1,6 @@
 # react-expense-app
 
-## Live server: [Ochia-Expense-app](ochia-expense-app.netlify.app)
+## Live server: [Ochia-Expense-app](https://ochia-expense-app.netlify.app/)
 
 ### Local Machine Installation
 
